@@ -4,7 +4,7 @@ version: 0.0.2
 repository: https://github.com/johnwcchau/permission_handler_web
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: ">=3.3.0 <4.0.0"
   flutter: ">=2.5.0"
 
 dependencies:
